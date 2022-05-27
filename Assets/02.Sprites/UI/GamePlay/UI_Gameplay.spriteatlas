@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Gameplay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 12ab153b7d64310439e4605665a51d6c, type: 3}
+    totalSpriteSurfaceArea: 2929243
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4e7baa206d2b4c04eb134a8df0d0e6fd, type: 3}
+  - {fileID: 21300000, guid: 225cafc1b8c610b4ab31bcb8da210ac0, type: 3}
+  - {fileID: 21300000, guid: d895a647649c9b447998b661ea674688, type: 3}
+  - {fileID: 21300000, guid: 18ff0157d37791d4da8d843bc1f41942, type: 3}
+  - {fileID: 21300000, guid: 6e90bec79d6880040bc97cbb8aa712c3, type: 3}
+  - {fileID: 21300000, guid: a69a3de768a479e4295eab040fd9a9d8, type: 3}
+  - {fileID: 21300000, guid: 34d4fef7a24a04041bffa5d532721427, type: 3}
+  - {fileID: 21300000, guid: 8bfa12ea3163e814baf8c72e7ea8b928, type: 3}
+  - {fileID: 21300000, guid: e6b14a0c221aa12419f612dd3d8af0a6, type: 3}
+  - {fileID: 21300000, guid: 32f19f0d7311a8647bebcd59d75fa6ee, type: 3}
+  - {fileID: 21300000, guid: bcde46ddf359957469266b2ba7c461d7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TimeLimit_Icon
+  - PointGauge_BG
+  - TimeLimit_Bar
+  - Typo_Ready
+  - PointGauge_Icon
+  - TimeOverIcon
+  - Typo_Go
+  - PointGauge_Bar
+  - Typo_JellyPang
+  - Summer_3x4
+  - Typo_TimeOver
+  m_RenderDataMap: {}
+  m_Tag: UI_Gameplay
+  m_IsVariant: 0

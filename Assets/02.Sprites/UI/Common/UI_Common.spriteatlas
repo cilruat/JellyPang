@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6104cd3d891de4344889463a9be6ac4a, type: 3}
+    totalSpriteSurfaceArea: 191734
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c077f30bc156724db81cb76a9aa6c96, type: 3}
+  - {fileID: 21300000, guid: 75e283b0799464b4f9978b040325f854, type: 3}
+  - {fileID: 21300000, guid: 20f079d0a2aca7a489d0af6bc7a82407, type: 3}
+  - {fileID: 21300000, guid: 3972b402345f08047a63fc3b1885be62, type: 3}
+  - {fileID: 21300000, guid: c048f152d8960994daea44c94e044038, type: 3}
+  - {fileID: 21300000, guid: 4f95eb53c09fe874a962e5445d1705a4, type: 3}
+  - {fileID: 21300000, guid: 6c8a2e53b54652e46b8c4a911d5b0500, type: 3}
+  - {fileID: 21300000, guid: af7c148303fdd7342990c593a0f8b112, type: 3}
+  - {fileID: 21300000, guid: 14f72dd485106b24d88f5d21ebce196e, type: 3}
+  - {fileID: 21300000, guid: 9de6db7753fb434449ecf92fb18a199a, type: 3}
+  - {fileID: 21300000, guid: 4a0e029709fcfc940863e4810999e147, type: 3}
+  - {fileID: 21300000, guid: 7a3fe158ca3ff244db96985df903bb6a, type: 3}
+  - {fileID: 21300000, guid: c8ca08e8482fb2248ae33055f7f48f34, type: 3}
+  - {fileID: 21300000, guid: dd3447b9738d37a4fa8369a83924dacf, type: 3}
+  - {fileID: 21300000, guid: 6d65a6c933bc1bd48839cc4c53c0894a, type: 3}
+  - {fileID: 21300000, guid: bcc8b0fa74b960940975375b6c72df91, type: 3}
+  - {fileID: 21300000, guid: e51440cb5b8377945ab3d5efd636b5fa, type: 3}
+  - {fileID: 21300000, guid: 2a50a56d54c4ee04fbbc4e06271afd2a, type: 3}
+  - {fileID: 21300000, guid: be27934fb67380840989ff803b13ffa8, type: 3}
+  - {fileID: 21300000, guid: 04faed4f6fe09d845ab84c48e2f75f70, type: 3}
+  - {fileID: 21300000, guid: b8bf427f915aa8340b8835f2a2b12e50, type: 3}
+  - {fileID: 21300000, guid: 460c57bfdda889f48af6974e953d8f5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_dark
+  - Common_Icon_Config
+  - Common_Icon_Close
+  - button_red
+  - button_green
+  - top_status_bg_white
+  - Common_Icon_Star
+  - button_orange
+  - Common_Icon_Lock
+  - button_white
+  - Common_Icon_Plus
+  - Common_Icon_Exit
+  - Common_Icon_Return
+  - button_yellow
+  - button_blue
+  - button_purple
+  - button_gray
+  - Common_Icon_Video
+  - button_sky
+  - Common_Icon_Sound
+  - Common_Icon_Haptic
+  - Common_Icon_Pause
+  m_RenderDataMap: {}
+  m_Tag: UI_Common
+  m_IsVariant: 0
